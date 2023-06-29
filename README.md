@@ -8,3 +8,5 @@ To set up the Stock Data Management App locally, follow these steps:
 5. Go to frontend directory and start the server using npm start
 6. Go to the backend directory and start the server using uvicorn main:app --reload
 7. Enjoy!
+
+[![Demo Video]](https://github.com/sahilsuman933/invsto_assignment/blob/master/demo.mkv)
