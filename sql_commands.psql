@@ -1,0 +1,14 @@
+CREATE DATABASE invsto;
+\c invsto;
+CREATE TABLE stock_data
+(
+datetime timestamp,
+close double precision,
+high double precision,
+low double precision,
+open double precision,
+volume integer,
+instrument text
+);
+select \*
+from stock_data;
